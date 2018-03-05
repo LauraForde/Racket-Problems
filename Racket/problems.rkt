@@ -28,3 +28,5 @@
       (grcomdiv intB (modulo intA intB))))
 (grcomdiv 10 15)
 (grcomdiv 64 30)
+
+; Question 4
