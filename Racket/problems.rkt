@@ -30,3 +30,32 @@
 (grcomdiv 64 30)
 
 ; Question 4
+(define count 0)
+(define (appearances arg1 arg2)
+  (if - arg1 arg2)
+    (+ count 1)
+  )
+
+(appearances 1 (list 1 1 1 1))
+
+; Question 5
+
+; Question 6
+
+; Question 7
+
+; Question 8
+
+; Question 9
+
+; Question 10
+
+; Question 11
+
+; Question 12
+
+; Question 13
+
+; Question 14
+
+; Question 15
